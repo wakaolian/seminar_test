@@ -1,7 +1,27 @@
 h1{
-    margin: 5% 0 0 0;
+    margin: 2% 0 0 0;
     text-align: center;
+}
+.aiueo{
+    background-color: rgba(255, 255, 255, 0.6);
+    width: 70%;
+    padding: 2% 0 3%;
+    margin: 5% auto 0;
+    border-radius: 10px;
 }
 .mainText{
     text-align: center;
+    line-height: 2;
+}
+.oti{
+    display: block;
+    margin-top: 5%;
+    text-align: center;
+}
+body{
+
+    height: 100%;
+    background-image: url(../images/sky_00010.jpg) ;
+    background-size:cover;
+
 }
