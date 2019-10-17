@@ -11,7 +11,7 @@ h1{
     text-align: center;
 }
 .aiueo{
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.8);
     width: 70%;
     padding: 2% 0 3%;
     margin: 2% auto 0;
@@ -20,6 +20,15 @@ h1{
 .mainText{
     text-align: center;
     line-height: 2;
+}
+img.tutumi_tikara{
+    width: 40%;
+    position: absolute;
+    top: 50px;
+    left:0;
+    right: 0;
+    z-index: -10;
+    margin: auto;
 }
 .oti{
     display: block;
